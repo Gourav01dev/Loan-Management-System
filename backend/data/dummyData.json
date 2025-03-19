@@ -1,0 +1,4 @@
+[
+    { "name": "Lender A", "minAmount": 5000, "maxAmount": 50000, "maxTerm": 36, "rate": 0.05, "tier": "T1C" },
+    { "name": "Lender B", "minAmount": 10000, "maxAmount": 100000, "maxTerm": 48, "rate": 0.04, "tier": "T2A" }
+]
