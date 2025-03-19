@@ -38,7 +38,7 @@ This will launch the backend server, allowing API requests to be processed.
 ---
 
 ## 🛠 Technologies Used
-- **Frontend**: React.js, Material-UI
+- **Frontend**: React.js
 - **Backend**: Node.js, Express.js, MongoDB
-- **Styling**: CSS3, Tailwind CSS
+- **Styling**: CSS3
 - **API Handling**: Axios, Express
